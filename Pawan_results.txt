@@ -1,3 +1,0 @@
-Results for 'Company AND Customer': ['doc.4.txt', 'doc.6.txt', 'doc.3.txt', 'doc.1.txt']
-Results for 'Phone OR Information': ['doc.4.txt', 'doc.1.txt', 'doc.2.txt']
-Results for 'NOT Discount': ['doc.5.txt', 'doc.1.txt', 'doc.7.txt', 'doc.2.txt']
