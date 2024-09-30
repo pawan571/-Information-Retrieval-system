@@ -1,0 +1,15 @@
+Query: battery life out
+Rank 1: Document doc.1.txt, Score: 0.0697
+Rank 2: Document doc.7.txt, Score: 0.0371
+Rank 3: Document docs_11.txt, Score: 0.0299
+
+Query: qualifying amount
+Rank 1: Document doc.7.txt, Score: 1.0663
+Rank 2: Document doc.5.txt, Score: 0.2325
+Rank 3: Document Doc.10.txt, Score: 0.1402
+
+Query: international purchases
+Rank 1: Document Doc.9.txt, Score: 1.2607
+Rank 2: Document Doc.10.txt, Score: 0.2106
+Rank 3: Document docs_20.txt, Score: 0.1864
+
